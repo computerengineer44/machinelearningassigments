@@ -1,5 +1,4 @@
-#BUĞRA ENHAR ELBİR
-#02200201072
+
 
 import numpy as np
 
